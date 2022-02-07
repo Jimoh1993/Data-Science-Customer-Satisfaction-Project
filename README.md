@@ -1,2 +1,2 @@
 # Data-Science-Customer-Satisfaction-Project
-Build a statistical model based customer satisfaction dataset from Qualtrics survey
+The aim of this semester project is to build a statistical model based on customer satisfaction dataset from Qualtrics survey
